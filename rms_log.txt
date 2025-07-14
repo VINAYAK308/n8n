@@ -1,0 +1,166 @@
+2025-07-14T14:59:17.362532 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:04:08.041176 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:07:43.856021 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:12:24.342877 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:12:56.066885 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:23:44.510915 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:27:14.363630 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:36:39.745244 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:40:39.164713 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:50:34.710726 | import os
+import subprocess
+
+# ...existing code...
+
+if flag == 'true':
+    subprocess.run(['python3', 'apply_rules.py'])
+    subprocess.run(['python3', 'send_to_ai_ml.py'])
+else:
+    # Ensure masked_data.txt exists for downstream scripts
+    if not os.path.exists('masked_data.txt'):
+        with open('masked_data.txt', 'w') as f:
+            f.write('No sensitive data found.\n')
+
+# Continue with loglistener.py, log_to_rms.py, gui_output.py
+# ...existing code...
+2025-07-14T15:56:48.090702 | Credit Card: ****-****-****-3456
+Aadhaar: **** **** 9012
+PAN: *****1234F
+API Key: API_KEY_****************
+2025-07-14T17:55:07.539412 | Credit Card: ****-****-****-7897
+2025-07-14T18:01:35.625896 | Credit Card: ****-****-****-7897
